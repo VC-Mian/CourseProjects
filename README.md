@@ -1,2 +1,2 @@
 # CourseProjects
-Programs I have done in courses, have no correlation to each other. They are all separate programs in which I implement what I have learned.
+Programs I have done in Java Programming at Forsyth Tech Community College. Most have no correlation to each other.
